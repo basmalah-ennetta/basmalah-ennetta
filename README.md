@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img src="https://streak-stats.demolab.com?user=basmalah-ennetta&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<br>
+<br>!-->
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=basmalah-ennetta&show_icons=true&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5" height="220" alt="basmalah-ennetta" />
 </div>
