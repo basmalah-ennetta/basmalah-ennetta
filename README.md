@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<!-- <h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=basmalah-ennetta&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <br>!-->
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=basmalah-ennetta&show_icons=true&locale=en&mode=daily&theme=aura_dark&hide_border=false&border_radius=5" height="220" alt="basmalah-ennetta" />
-</div>
+</div> -->
 <!--
 <br>
 <div align="center">
@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=basmalah-ennetta&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4" height="220" alt="Git trophies" />
 </div>
--->
+--> -->
