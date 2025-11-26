@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🔭 I'm a software developer from Tunisia<br>- 📚 I'm currently studying for my bachelor's in Computer Science<br>- ⚙️ My current project is a coffee shop website<br>- ⚡ In my free time I read fanfics and watch youtube videos</p>
+<p align="left">- 🔭 I'm a software developer from Tunisia<br>- 📚 I'm currently studying for my bachelor's in Computer Science<br>- ⚙️ My current project is an AR flashcard Interactive Learning application <br>- ⚡ Actively searching for a 6-month end-of-studies internship</p>
 <hr>
 
 ###
